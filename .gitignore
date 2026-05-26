@@ -1,0 +1,12 @@
+bin/
+data/
+docs/grafico-tempo.svg
+results/*.csv
+results/*.log
+results/process-runs/
+versao-simples/bin/
+versao-simples/resultados/*.csv
+versao-simples/resultados/*.svg
+versao-simples/versao-simples/
+*.class
+*.tmp
