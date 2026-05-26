@@ -14,7 +14,6 @@ O codigo foi escrito em Java 8 para ser compativel com ambientes de laboratorio 
 - `scripts/run-suite.ps1`: compila e executa a bateria oficial.
 - `scripts/monitor-java.ps1`: monitora processos `java.exe` pelo PowerShell.
 - `docs/relatorio-tecnico.md`: modelo do relatorio tecnico.
-- `docs/roteiro-video.md`: roteiro sugerido para o video.
 - `results/`: pasta gerada com CSVs de resultados.
 
 ## Requisitos
