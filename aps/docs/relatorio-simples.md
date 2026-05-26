@@ -22,7 +22,7 @@ O objetivo do trabalho foi comparar o uso de processos e threads na multiplicaca
 
 ## Implementacao
 
-O programa foi implementado no arquivo `src/TrabalhoSimples.java`.
+O programa foi implementado no arquivo `src/APS_SISOP.java`.
 
 Foram criadas duas versoes:
 
