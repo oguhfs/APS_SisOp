@@ -2,10 +2,9 @@
 
 ## Integrantes
 
-- Nome completo 1
-- Nome completo 2
-- Nome completo 3
-- Nome completo 4
+- Gustavo Ferreira da Silva
+- Gustavo Henrique Motta
+- João Vitor Hess
 
 ## 1. Objetivo
 
