@@ -1,0 +1,7 @@
+modo,unidades,tempo_medio_ms,memoria_pico_mb,cpu_pico,validacao
+threads,2,609.948,36.084,16.294,true
+threads,4,306.609,124.084,5.439,true
+threads,8,229.422,143.584,6.453,true
+processos,2,1649.676,64.084,18.495,true
+processos,4,1667.038,173.876,27.988,true
+processos,8,2016.413,234.296,46.545,true

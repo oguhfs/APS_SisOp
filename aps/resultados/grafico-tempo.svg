@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460">
+<rect width="100%" height="100%" fill="white"/>
+<text x="410" y="35" text-anchor="middle" font-family="Arial" font-size="22">Tempo medio: processos vs threads</text>
+<line x1="70" y1="390" x2="760" y2="390" stroke="#333"/>
+<line x1="70" y1="70" x2="70" y2="390" stroke="#333"/>
+<rect x="120" y="302" width="38" height="88" fill="#2f80ed"/>
+<text x="139" y="297" text-anchor="middle" font-family="Arial" font-size="11">610</text>
+<rect x="170" y="153" width="38" height="237" fill="#eb5757"/>
+<text x="189" y="148" text-anchor="middle" font-family="Arial" font-size="11">1650</text>
+<text x="165" y="420" text-anchor="middle" font-family="Arial" font-size="13">2 unidades</text>
+<rect x="330" y="346" width="38" height="44" fill="#2f80ed"/>
+<text x="349" y="341" text-anchor="middle" font-family="Arial" font-size="11">307</text>
+<rect x="380" y="150" width="38" height="240" fill="#eb5757"/>
+<text x="399" y="145" text-anchor="middle" font-family="Arial" font-size="11">1667</text>
+<text x="375" y="420" text-anchor="middle" font-family="Arial" font-size="13">4 unidades</text>
+<rect x="540" y="357" width="38" height="33" fill="#2f80ed"/>
+<text x="559" y="352" text-anchor="middle" font-family="Arial" font-size="11">229</text>
+<rect x="590" y="100" width="38" height="290" fill="#eb5757"/>
+<text x="609" y="95" text-anchor="middle" font-family="Arial" font-size="11">2016</text>
+<text x="585" y="420" text-anchor="middle" font-family="Arial" font-size="13">8 unidades</text>
+<rect x="575" y="55" width="14" height="14" fill="#2f80ed"/><text x="595" y="67" font-family="Arial" font-size="13">Threads</text>
+<rect x="665" y="55" width="14" height="14" fill="#eb5757"/><text x="685" y="67" font-family="Arial" font-size="13">Processos</text>
+</svg>
